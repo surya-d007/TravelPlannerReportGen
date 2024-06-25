@@ -2,7 +2,6 @@ import React, { useState, createContext } from 'react';
 import { View, SafeAreaView } from 'react-native';
 import Home from './Pages/Home';
 import StacksNavNewPlan from './Pages/StacksNavNewPlan';
-
 import Sample from './Pages/Sample';
 import SignInForm from './Logins/SignInForm';
 import SignUpForm from './Logins/SignUpForm';
